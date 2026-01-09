@@ -1,13 +1,15 @@
 ## Hi, I'm Diego Ferrari 👋
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/tuo-linkedin)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="25"/>](mailto:diego.ferrari@email.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/diego-ferrari-9a6220338/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="25"/>](mailto:diegoferrari.dev@gmail.com)
+
+### Updates
 
 Currently working on a 👉[new personal project](https://github.com/diegoferrari129/gestionale-erboristeria) using for the first time:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Languages, frameworks, and tools I use frequently:
+### Languages, frameworks, and tools I use frequently
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -22,16 +24,20 @@ Currently working on a 👉[new personal project](https://github.com/diegoferrar
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Other languages I've used in past projects:
+### Other languages, frameworks, and tools I've used in past projects
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-### Future projects:
+### Future projects
 Next project I’m planning is a text-based RPG using SignalR, with AI-powered NPCs for dynamic interactions.
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoferrari129&show_icons=true&theme=transparent)
-
+<a href="https://github.com/diegoferrari129">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoferrari129&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/diegoferrari129">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoferrari129&show_icons=true&theme=tokyonight" />
+</a>
 
 
 <!--
