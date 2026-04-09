@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <b>📫 Let's Connect</b>&nbsp;&nbsp;&nbsp;
+  <b>📫 Let's Connect</b>&nbsp;&nbsp;
   <!-- <a href="https://www.linkedin.com/in/diego-ferrari-9a6220338/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>
   </a> -->
