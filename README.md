@@ -1,3 +1,10 @@
+## Ciao, sono Diego! 👋
+❤ Tea, gaming, imagining conversations in my head
+
+**Let's Connect!**
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/diego-ferrari-9a6220338/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="25"/>](mailto:diegoferrari.dev@gmail.com)
+
 ## Technical Toolbox
 **Backend & Database**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -19,12 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## Ciao, sono Diego! 👋
-
-**Let's Connect!**
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>](https://www.linkedin.com/in/diego-ferrari-9a6220338/)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="25"/>](mailto:diegoferrari.dev@gmail.com)
 
 <!-- <img src="https://github-readme-stats-eight-zeta-80.vercel.app/api?username=diegoferrari129&show_icons=true&theme=transparent&hide_border=true" /> -->
 
