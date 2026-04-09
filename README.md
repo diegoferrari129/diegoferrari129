@@ -10,7 +10,7 @@
 <br>
 
 <!-- STATS -->
-<h1 align="center">📊 Stats</h1>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <a href="https://www.codewars.com/users/caffeineanakin">
@@ -30,7 +30,7 @@
 <br>
 
 <!-- TECH -->
-<h1 align="center">🛠️ Tech</h1>
+<h2 align="center">🛠️ Tech</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
