@@ -6,7 +6,7 @@
 <br>
 
 <!-- STATS -->
-<h2 align="center">📊 Stats</h2>
+<h2>📊 Stats</h2>
 
 <p align="center">
   <strong>☕ Coffee consumption:</strong> <code>excessive</code><br>
@@ -39,7 +39,7 @@
 <br>
 
 <!-- TECH -->
-<h2 align="center">🛠️ Tech</h2>
+<h2>🛠️ Tech</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
