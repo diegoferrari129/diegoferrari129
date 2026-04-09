@@ -18,9 +18,9 @@
 
 ### Updates
 
-Currently working on a 👉[new personal project](https://github.com/diegoferrari129/gestionale-erboristeria)
 
 <!--### Languages, frameworks, and tools I use frequently
+Currently working on a 👉[new personal project](https://github.com/diegoferrari129/gestionale-erboristeria)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -38,10 +38,10 @@ Currently working on a 👉[new personal project](https://github.com/diegoferrar
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 
+<!--
+
 ### On my roadmap
 Next project I’m planning is a text-based RPG using SignalR, with AI-powered NPCs for dynamic interactions!
-
-<!--
 **diegoferrari129/diegoferrari129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
