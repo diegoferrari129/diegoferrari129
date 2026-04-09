@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <h1 align="center">✨ Hey there, I'm Diego! ✨</h1>
 
 <p align="center">
@@ -8,6 +9,9 @@
   <strong>💭 Inner voice:</strong> <code>"why did I choose this career?" (just kidding, I love it)</code>
 </p>
 
+<br>
+
+<!-- STATS -->
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
@@ -25,6 +29,9 @@
   <img src="https://komarev.com/ghpvc/?username=diegoferrari129&color=0e75b6&style=flat-square&label=Profile+Views"/>
 </p> -->
 
+<br>
+
+<!-- TECH -->
 <h2 align="center">🛠️ Tech</h2>
 
 <p align="center">
@@ -32,10 +39,13 @@
   <img src="https://skillicons.dev/icons?i=mongodb,cs,dotnet,angular,js,html,css,bootstrap,git,docker,visualstudio" />
 </p>
 
+<br>
+
+<!-- PROJECTS -->
 <!-- <h2 align="center">🚀 Projects</h2> -->
 
 ---
-
+<!-- CONTACTS -->
 <p align="center">
   <b>📫 Let's Connect</b>&nbsp;&nbsp;
   <!-- <a href="https://www.linkedin.com/in/diego-ferrari-9a6220338/">
