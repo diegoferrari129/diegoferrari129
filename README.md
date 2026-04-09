@@ -3,16 +3,14 @@
 
 <p align="center">
   <strong>☕ Coffee consumption:</strong> <code>excessive</code><br>
-  <strong>🐛 Bug fixing strategy:</strong> <code>renamed to "unexpected features"</code><br>
-  <strong>🎮 Debugging soundtrack:</strong> <code>boss battle music only</code><br>
-  <strong>🧠 Brain activity:</strong> <code>50% code, 50% "what if I was a wizard"</code><br>
+  <strong>🧠 Brain activity:</strong> <code>50% code, 50% "what if I was a wizard?"</code><br>
   <strong>💭 Inner voice:</strong> <code>"why did I choose this career?" (just kidding, I love it)</code>
 </p>
 
 <br>
 
 <!-- STATS -->
-<h2 align="center">📊 Stats</h2>
+<h1 align="center">📊 Stats</h1>
 
 <p align="center">
   <a href="https://www.codewars.com/users/caffeineanakin">
@@ -32,7 +30,7 @@
 <br>
 
 <!-- TECH -->
-<h2 align="center">🛠️ Tech</h2>
+<h1 align="center">🛠️ Tech</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
