@@ -16,10 +16,10 @@
 
  <!-- <img src="https://github-readme-stats-eight-zeta-80.vercel.app/api?username=diegoferrari129&show_icons=true&theme=transparent&hide_border=true" /> -->
 
-### Updates
-
 
 <!--### Languages, frameworks, and tools I use frequently
+
+### Updates
 Currently working on a 👉[new personal project](https://github.com/diegoferrari129/gestionale-erboristeria)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
