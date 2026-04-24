@@ -1,3 +1,4 @@
+
 <!-- HEADER -->
 
 <!-- CONTACTS -->
@@ -50,11 +51,13 @@
 
   <!-- COLONNA DESTRA: Immagine originale -->
 <td align="left" width="33%" style="vertical-align: top;">
-  <img src="https://i0.wp.com/aureliaundertheradar.wordpress.com/wp-content/uploads/2021/11/no-face-chihiro.jpg?fit=900%2C1200&ssl=1&w=640" 
-       width="213" height="481" 
-       style="display: block; width: 100%; height: auto;" 
-       alt="No-Face Chihiro" />
+  <img alt="Screenshot 2026-04-25 014646" src="https://github.com/user-attachments/assets/4faa3378-b741-4faa-9fe3-ad6af40fe2a7" />
+  <img alt="Screenshot 2026-04-25 015235" src="https://github.com/user-attachments/assets/8bf16eeb-578b-4a4b-ba33-0b7a50ef3107" />
+  <img alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ddc8bafa-ecd4-4d69-ba5d-d9921901e037" />
+  
   <br>
+
+
   <p align="center">
   <a href="mailto:diegoferrari.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="33" style="margin: 0 8px;"/>
