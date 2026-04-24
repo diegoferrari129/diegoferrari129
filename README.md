@@ -10,14 +10,14 @@
   </a>-->
 
 <!-- Tabella per affiancare Analytics (sinistra) e Immagine (destra) -->
-<table align="center">
+<table style="width: 100%; height: 100%; border-collapse: collapse;">
   <tbody>
     <tr>
       <!-- COLONNA SINISTRA: Analytics + Badges -->
-      <td width="50%" style="vertical-align: top;">
+      <td width="67%" style="vertical-align: top;">
         <p align="right">
-          <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" width="1000" />
+          <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight" width="1000"/>
           <!--START_SECTION:waka-->
           <!--END_SECTION:waka-->
         </p>
@@ -49,10 +49,20 @@
       </td>
 
   <!-- COLONNA DESTRA: Immagine originale -->
-  <td align="left" width="50%" style="vertical-align: top;">
-    <img width="400" alt="Your image" src="https://github.com/user-attachments/assets/97fc31c4-bb45-466a-af9d-b1ab0634d629" />
-  </td>
-</tr>
+<td align="left" width="33%" style="vertical-align: top;">
+  <img src="https://i0.wp.com/aureliaundertheradar.wordpress.com/wp-content/uploads/2021/11/no-face-chihiro.jpg?fit=900%2C1200&ssl=1&w=640" 
+       width="213" height="481" 
+       style="display: block; width: 100%; height: auto;" 
+       alt="No-Face Chihiro" />
+  <br>
+  <p align="center">
+  <a href="mailto:diegoferrari.dev@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="33" style="margin: 0 8px;"/>
+  </a>
+</p>
+</td>
+
+
   </tbody>
 </table>
 
