@@ -19,42 +19,6 @@
         <p align="right">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" width="1000" />
           <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight" width="1000"/>
-          <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visite%20al%20profilo-19-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/Dal%20mio%20primo%20Hello%20World%20ho%20scritto%20-682.58%20thousand%20Linee%20di%20codice-blue?style=flat)
-
-**🐱 I miei dati GitHub** 
-
-> 📦 105.0 kB Spazio di archiviazione di GitHub utilizzato 
- > 
-> 🏆 98 Contributi nell'ultimo anno 2026
- > 
-> 💼 Pronto per essere assunto
- > 
-> 📜 82 Repositories pubbliche 
- > 
-> 🔑 0 Repositories private 
- > 
-**Solitamente programmo in HTML** 
-
-```text
-PHP                      20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-C#                       8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-```
-
-
-
-**Linea temporale**
-
-![Lines of Code chart](https://raw.githubusercontent.com/diegoferrari129/diegoferrari129/main/assets/bar_graph.png)
-
-
- Last Updated on 25/04/2026 01:13:43 UTC
-<!--END_SECTION:waka-->
         </p>
         <!--SNAKE <p align="right">
           <picture>
