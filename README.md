@@ -9,7 +9,11 @@
   <!--<a href="mailto:diegoferrari.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
   </a>-->
-
+<!--<div style="display: flex; justify-content: space-between; gap: 0px; marign: 0px; padding: 0px; flex-wrap: nowrap;">
+  <img src="https://github.com/user-attachments/assets/4faa3378-b741-4faa-9fe3-ad6af40fe2a7" style="width: 32.7%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/7f9bf6c2-06bd-45af-b931-56d06579e026" style="width: 32.7%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/ddc8bafa-ecd4-4d69-ba5d-d9921901e037" style="width: 32.7%; height: auto;" />
+</div>
 <!-- Tabella per affiancare Analytics (sinistra) e Immagine (destra) -->
 <table style="width: 100%; height: 100%; border-collapse: collapse;">
   <tbody>
