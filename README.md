@@ -15,10 +15,10 @@
   <tbody>
     <tr>
       <!-- COLONNA SINISTRA (60%) -->
-     <td width="50%" style="vertical-align: top; padding: 0; margin: 0;">
-         <!-- Streak Stats personalizzata 
+     <td width="58%" style="vertical-align: top; padding: 0; margin: 0;">
+         <!-- Streak Stats personalizzata -->
   <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight&hide_border=true&background=0d1117&border_radius=0&ring=89dceb&fire=89dceb&currStreakNum=89dceb&sideNums=89dceb&currStreakLabel=89dceb&sideLabels=89dceb&dates=89dceb"
-       alt="GitHub Streak" style="display: block; width: 100%; margin: 0; padding: 0;" />-->
+       alt="GitHub Streak" style="display: block; width: 100%; margin: 0; padding: 0;" />
   <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&days=7&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true"
      alt="GitHub Activity Graph" style="display: block; width: 100%; margin: 0; padding: 0;" />
@@ -27,7 +27,7 @@
        
 <!--![Lines of code](https://img.shields.io/badge/%20-690.79%20thousand%20lines%20of%20code-blue?style=flat)-->
 
-```text
+<!--```text
 JavaScript               2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.59 % 
 C#                       2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
 HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
@@ -37,7 +37,7 @@ JSON                     8 mins              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </td>
       <!-- COLONNA DESTRA (40%) – Card progetti + contatti -->
-      <td width="50%" style="vertical-align: top;">
+      <td width="42%" style="vertical-align: top;">
         <!-- Prima Card -->
         <a href="https://github.com/diegoferrari129/ToDo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoferrari129&repo=ToDo&theme=tokyonight&hide_border=true"
