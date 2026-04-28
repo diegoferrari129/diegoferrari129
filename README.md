@@ -6,72 +6,44 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>
   </a> -->
   
-  <!--<a href="mailto:diegoferrari.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30"/>
-  </a>-->
-<!--<div style="display: flex; justify-content: space-between; gap: 0px; marign: 0px; padding: 0px; flex-wrap: nowrap;">
-  <img src="https://github.com/user-attachments/assets/4faa3378-b741-4faa-9fe3-ad6af40fe2a7" style="width: 32.7%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/7f9bf6c2-06bd-45af-b931-56d06579e026" style="width: 32.7%; height: auto;" />
-  <img src="https://github.com/user-attachments/assets/ddc8bafa-ecd4-4d69-ba5d-d9921901e037" style="width: 32.7%; height: auto;" />
+<div align="center">
+  <img width="1100" height="400" alt="merged collage"
+       src="https://github.com/user-attachments/assets/2cbbf134-6923-4954-998c-60b4fd0081a2" />
 </div>
-<!-- Tabella per affiancare Analytics (sinistra) e Immagine (destra) -->
-<table style="width: 100%; height: 100%; border-collapse: collapse;">
+
+<table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <tr>
-      <!-- COLONNA SINISTRA: Analytics + Badges -->
-      <td width="67%" style="vertical-align: top;">
-        <p align="right">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" width="1000" />
-          <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight" width="1000"/>
-        </p>
-        <!--SNAKE <p align="right">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoferrari129/diegoferrari129/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoferrari129/diegoferrari129/output/github-contribution-grid-snake.svg">
-            <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/diegoferrari129/diegoferrari129/output/github-contribution-grid-snake.svg" width="400">
-          </picture> -->
-        </p>
-        <!-- Badges tecnologici (nuova sezione sotto la snake) -->
-        <p align="right">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25" style="margin: 2px;"/>
-          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height="25" style="margin: 2px;"/>
-        </div>
-      </td>
-        </p>
-      </td>
-
-  <!-- COLONNA DESTRA: Immagine originale -->
-<td align="left" width="33%" style="vertical-align: top;">
-  <img alt="Screenshot 2026-04-25 014646" src="https://github.com/user-attachments/assets/4faa3378-b741-4faa-9fe3-ad6af40fe2a7" />
-  <img alt="Screenshot 2026-04-25 015235" src="https://github.com/user-attachments/assets/8bf16eeb-578b-4a4b-ba33-0b7a50ef3107" />
-  <img alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ddc8bafa-ecd4-4d69-ba5d-d9921901e037" />
-  
-  <br>
-
-
-  <p align="center">
-  <a href="mailto:diegoferrari.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="33" style="margin: 0 8px;"/>
-  </a>
-</p>
+      <!-- COLONNA SINISTRA (60%) -->
+     <td width="60%" style="vertical-align: top; padding: 0; margin: 0;">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true"
+       alt="GitHub Activity Graph" style="display: block; width: 100%; margin: 0; padding: 0;" />
+  <!-- Streak Stats personalizzata -->
+  <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight&hide_border=true&background=0d1117&border_radius=0&ring=89dceb&fire=89dceb&currStreakNum=89dceb&sideNums=89dceb&currStreakLabel=89dceb&sideLabels=89dceb&dates=89dceb"
+       alt="GitHub Streak" style="display: block; width: 100%; margin: 0; padding: 0;" />
+  <!-- WakaTime Stats -->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </td>
-
-
+      <!-- COLONNA DESTRA (40%) – Card progetti + contatti -->
+      <td width="40%" style="vertical-align: top;">
+        <!-- Prima Card -->
+        <a href="https://github.com/diegoferrari129/ToDo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoferrari129&repo=ToDo&theme=tokyonight&hide_border=true"
+               alt="ToDo project" style="width: 100%;" />
+        </a>
+        <!-- Seconda Card -->
+        <!-- Contatti -->
+        <p align="center">
+          <a href="mailto:diegoferrari.dev@gmail.com">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="33" style="margin: 15px 8px 0 8px;" />
+          </a>
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
-
-
 
 <!-- PROFILE VIEWS
 <p align="center">
