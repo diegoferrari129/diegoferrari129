@@ -15,7 +15,7 @@
   <tbody>
     <tr>
       <!-- COLONNA SINISTRA (60%) -->
-     <td width="58%" style="vertical-align: top; padding: 0; margin: 0;">
+     <td width="55%" style="vertical-align: top; padding: 0; margin: 0;">
          <!-- Streak Stats personalizzata -->
   <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight&hide_border=true&background=0d1117&border_radius=0&ring=89dceb&fire=89dceb&currStreakNum=89dceb&sideNums=89dceb&currStreakLabel=89dceb&sideLabels=89dceb&dates=89dceb"
        alt="GitHub Streak" style="display: block; width: 100%; margin: 0; padding: 0;" />
@@ -26,7 +26,7 @@
 
 </td>
       <!-- COLONNA DESTRA (40%) – Card progetti + contatti -->
-      <td width="42%" style="vertical-align: top;">
+      <td width="45%" style="vertical-align: top;">
         <!-- Prima Card -->
         <a href="https://github.com/diegoferrari129/ToDo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoferrari129&repo=ToDo&theme=tokyonight&hide_border=true"
