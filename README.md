@@ -24,16 +24,90 @@
      alt="GitHub Activity Graph" style="display: block; width: 100%; margin: 0; padding: 0;" />
   <!-- WakaTime Stats -->
   <!--START_SECTION:waka-->
-       
-<!--![Lines of code](https://img.shields.io/badge/%20-690.79%20thousand%20lines%20of%20code-blue?style=flat)-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%201%20min-blue?style=flat)
 
-<!--```text
-JavaScript               2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.59 % 
-C#                       2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
-HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+![Profile Views](http://img.shields.io/badge/Visite%20al%20profilo-49-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/Dal%20mio%20primo%20Hello%20World%20ho%20scritto%20-690.81%20thousand%20Linee%20di%20codice-blue?style=flat)
+
+**🐱 I miei dati GitHub** 
+
+> 📦 110.7 kB Spazio di archiviazione di GitHub utilizzato 
+ > 
+> 🏆 126 Contributi nell'ultimo anno 2026
+ > 
+> 💼 Pronto per essere assunto
+ > 
+> 📜 82 Repositories pubbliche 
+ > 
+> 🔑 2 Repositories private 
+ > 
+**Sono un mattiniero 🐤** 
+
+```text
+🌞 Mattina                504 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+🌆 Giorno                 1434 commits        ██████████░░░░░░░░░░░░░░░   41.40 % 
+🌃 Pomeriggio             1154 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
+🌙 Notte                  372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
+📅 **Sono piu' produttivo di Giovedì** 
+
+```text
+Lunedì                   641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Martedì                  666 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Mecoledì                 737 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Giovedì                  765 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Venerdì                  479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sabato                   49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Domenica                 127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+```
+
+
+📊 **Questa settimana ho speso il mio tempo su** 
+
+```text
+🕑︎ Fuso orario: Europe/Rome
+
+💬 Linguaggi di programmazione: 
+JavaScript               5 hrs 28 mins       ████████████████░░░░░░░░░   65.34 % 
+C#                       2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+
+🔥 Editor di testo: 
+VS Code                  6 hrs 6 mins        ██████████████████░░░░░░░   72.87 % 
+Visual Studio            2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+
+🐱‍💻 Progetti: 
+x-o                      5 hrs 13 mins       ████████████████░░░░░░░░░   62.33 % 
+ToDo                     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+01-starting-project      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+react-course-exercises   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+react-course-project-1   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+
+💻 Sistema operativo: 
+Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
+**Solitamente programmo in HTML** 
+
+```text
+PHP                      20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+```
+
+
+
+**Linea temporale**
+
+![Lines of Code chart](https://raw.githubusercontent.com/diegoferrari129/diegoferrari129/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/04/2026 01:33:14 UTC
 <!--END_SECTION:waka-->
 </td>
       <!-- COLONNA DESTRA (40%) – Card progetti + contatti -->
