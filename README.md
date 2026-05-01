@@ -5,7 +5,7 @@
 
 <!-- ABOUT ME -->
 <div>
-    <h2>Hi there! I'm Diego Ferrari, a passionate frontend developer.</h2>
+    <h2>Hi there! I'm Diego Ferrari, a passionate front-end developer.</h2>
     <h3>I craft smooth user experiences. <em>No friction, just flow.</em></h3>
     <ul style="list-style-type: disc;">
       <li>🔭 I’m currently looking for my first opportunity in tech</li>
@@ -24,7 +24,7 @@
 
 <!-- TECH -->
 <div>
-    <h3>Top Skills:</h3>
+    <h3>Top Skills</h3>
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
