@@ -7,17 +7,18 @@
 <div>
     <h2>Hi there! I'm Diego Ferrari, a passionate frontend developer.</h2>
     <h3>I craft smooth user experiences. <em>No friction, just flow.</em></h3>
-    <p>
-      🔭 I’m currently looking for my first opportunity in tech<br>
-      🌱 I’m currently deepening my knowledge of frontend concepts, with a strong focus on writing clean, maintainable code<br>
-      👯 I’m looking to collaborate on open source projects
-    </p>
+    <ul style="list-style-type: disc;">
+      <li>🔭 I’m currently looking for my first opportunity in tech</li>
+      <li>🌱 I’m currently deepening my knowledge of frontend concepts, with a strong focus on writing clean, maintainable code</li>
+      <li>👯 I’m looking to collaborate on open source projects</li>
+    </ul>
     <h3>
       Let's connect and build the future together! 🌟
     </h3>
     <div>
-      <img src="https://badgen.net/badge/LinkedIn/diego-ferrari/blue?icon=linkedin&border-radius=12" />
-      <img src="https://badgen.net/badge/Email/diegoferrari.dev@gmail.com/red?icon=gmail&border-radius=12" />
+        <a href="mailto:diegoferrari.dev@gmail.com">
+          <img src="https://badgen.net/badge/e-mail/diegoferrari.dev@gmail.com/red?&border-radius=12" alt="Email" />
+        </a>
     </div>
 </div>
 
