@@ -1,52 +1,31 @@
 
-<!-- HEADER -->
-
-<!-- CONTACTS -->
-  <!-- <a href="https://www.linkedin.com/in/diego-ferrari-9a6220338/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25"/>
-  </a> -->
-  
-<div align="center">
-  <img width="1100" height="400" alt="merged collage"
+<!-- COLLAGE (immagine grande)-->
+<div align="center" style="margin-bottom: 20px;">
+  <img width="800" height="300" alt="merged collage"
        src="https://github.com/user-attachments/assets/2cbbf134-6923-4954-998c-60b4fd0081a2" />
 </div>
+<!-- HEADER (frase introduttiva) -->
+    <h2>Hi there! I'm Diego Ferrari, a passionate frontend developer.</h2>
+  <h3>I craft smooth user experiences. <em>No friction, just flow.</em></h3>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tbody>
-    <tr>
-      <!-- COLONNA SINISTRA (60%) -->
-     <td width="55%" style="vertical-align: top; padding: 0; margin: 0;">
-         <!-- Streak Stats personalizzata -->
-  <img src="https://streak-stats.demolab.com/?user=diegoferrari129&theme=tokyonight&hide_border=true&background=0d1117&border_radius=0&ring=89dceb&fire=89dceb&currStreakNum=89dceb&sideNums=89dceb&currStreakLabel=89dceb&sideLabels=89dceb&dates=89dceb"
-       alt="GitHub Streak" style="display: block; width: 100%; margin: 0; padding: 0;" />
-  <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diegoferrari129&days=7&theme=tokyonight&bg_color=0d1117&color=89dceb&line=89dceb&point=403d3d&area=true&hide_border=true"
-     alt="GitHub Activity Graph" style="display: block; width: 100%; margin: 0; padding: 0;" />
-  <!-- WakaTime Stats -->
+<p >
+  <!--🧠 I turn complex concepts into simple, user-friendly interfaces by writing clean, maintainable code. I'm a fast learner, comfortable with Git, Agile workflows, and I’m always eager to improve.<br>-->
+🔭 I’m currently looking for my first opportunity in tech<br>
+🌱 I’m currently deed diving frontend concepts<br>
+👯 I’m looking to collaborate on open source projects<br>
+</p>
+<h3 >
+  Let's connect and build the future together! 🌟
+</h3>
+<p >
+  <img src="https://badgen.net/badge/LinkedIn/diego-ferrari/blue?icon=linkedin&border-radius=12" />
+  <img src="https://badgen.net/badge/Email/diegoferrari.dev@gmail.com/red?icon=gmail&border-radius=12" />
+</p>
 
-</td>
-      <!-- COLONNA DESTRA (40%) – Card progetti + contatti -->
-      <td width="45%" style="vertical-align: top;">
-        <!-- Prima Card -->
-        <a href="https://github.com/diegoferrari129/ToDo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoferrari129&repo=ToDo&theme=tokyonight&hide_border=true"
-               alt="ToDo project" style="width: 100%;" />
-        </a>
-        <!-- Seconda Card -->
-        <!-- Contatti -->
-        <p align="center">
-          <a href="mailto:diegoferrari.dev@gmail.com">
-            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="33" style="margin: 15px 8px 0 8px;" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- PROFILE VIEWS
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegoferrari129&color=0e75b6&style=flat-square&label=Profile+Views"/>
-</p> -->
-
-<!-- PROJECTS -->
+<h3>Top Skills:</h3>
+<p >
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
