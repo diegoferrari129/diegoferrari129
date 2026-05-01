@@ -1,6 +1,6 @@
 <!-- COLLAGE HEADER -->
 <div align="center" style="margin-bottom: 20px;">
-    <img width="1050" height="350" alt="coll-6abcdef" src="https://github.com/user-attachments/assets/2172c3b4-67c7-42e3-b77f-ae08c8cdb59c" />
+    <img width="1050" height="375" alt="coll-6abcdef" src="https://github.com/user-attachments/assets/2172c3b4-67c7-42e3-b77f-ae08c8cdb59c" />
 </div>
 
 <!-- ABOUT ME -->
