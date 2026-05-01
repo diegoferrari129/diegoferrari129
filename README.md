@@ -1,7 +1,8 @@
 
+
 <!-- COLLAGE (immagine grande)-->
 <div align="center" style="margin-bottom: 20px;">
-<img width="1980" height="620" alt="collage-github-readme" src="https://github.com/user-attachments/assets/9ef35064-c239-4323-ac6e-22b097609015" />
+<img width="800" height="300" alt="coll-6abcdef" src="https://github.com/user-attachments/assets/2172c3b4-67c7-42e3-b77f-ae08c8cdb59c" />
 </div>
 <!-- HEADER (frase introduttiva) -->
     <h2>Hi there! I'm Diego Ferrari, a passionate frontend developer.</h2>
