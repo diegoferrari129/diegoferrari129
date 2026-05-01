@@ -1,8 +1,7 @@
 
 <!-- COLLAGE (immagine grande)-->
 <div align="center" style="margin-bottom: 20px;">
-  <img width="800" height="300" alt="merged collage"
-       src="https://github.com/user-attachments/assets/2cbbf134-6923-4954-998c-60b4fd0081a2" />
+<img width="1500" height="437" alt="collage-github-readme" src="https://github.com/user-attachments/assets/9ef35064-c239-4323-ac6e-22b097609015" />
 </div>
 <!-- HEADER (frase introduttiva) -->
     <h2>Hi there! I'm Diego Ferrari, a passionate frontend developer.</h2>
@@ -28,4 +27,13 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/First%20Pull%20Request-🥉-green?style=for-the-badge" alt="First PR"/>
+  <img src="https://img.shields.io/badge/First%20Issue%20Closed-⭐-blue?style=for-the-badge" alt="First Issue"/>
 </p>
