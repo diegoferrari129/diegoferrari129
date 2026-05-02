@@ -6,7 +6,7 @@
 <!-- ABOUT ME -->
 <div>
     <h2>Hi there! I'm Diego Ferrari, a passionate front-end developer.</h2>
-    <h3>I craft smooth user experiences. <em>No friction, just flow.</em></h3>
+    <h3>I strive to create smooth user experiences. <em>No friction, just flow.</em></h3>
     <ul style="list-style-type: disc;">
       <li>🔭 I’m currently looking for my first opportunity in tech</li>
       <li>🌱 I’m currently deepening my knowledge of frontend concepts, with a strong focus on writing clean, maintainable code</li>
@@ -27,7 +27,7 @@
     <h3>Top Skills</h3>
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />
+        <!-- <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React Native" />-->
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
