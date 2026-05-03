@@ -6,10 +6,9 @@
 <!-- ABOUT ME -->
 <div>
     <h2>Hi there! I'm Diego Ferrari, a passionate full-stack developer.</h2>
-    <h3>I strive to create smooth user experiences. <em>No friction, just flow.</em></h3>
-    <ul style="list-style-type: disc;">
+    <ul>
       <li>🔭 I’m currently looking for my first opportunity in tech</li>
-      <li>🌱 I’m currently deepening my knowledge of frontend concepts, with a strong focus on writing clean, maintainable code</li>
+      <li>🌱 I’m currently deepening my knowledge of .NET and Angular, while also learning Generative AI</li>
       <li>👯 I’m looking to collaborate on open source projects</li>
     </ul>
     <h3>
@@ -26,10 +25,10 @@
 <div>
     <h3>Top Skills</h3>
     <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind" />
         <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </div>
 </div>
