@@ -9,7 +9,9 @@
     <ul>
       <li>🔭 I’m currently looking for my first opportunity in tech</li>
       <li>🌱 I’m currently deepening my knowledge of .NET and Angular, and exploring Generative AI integration in .NET applications</li>
+      <li>💼 I’m building personal projects to showcase my skills</li>
       <li>👯 I’m looking to collaborate on open source projects</li>
+      <li>🙋‍♂️ I’m available to volunteer on small coding tasks or bug fixes</li>
     </ul>
     <h3>
       Let's connect and build the future together! 🌟
