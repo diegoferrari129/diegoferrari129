@@ -20,7 +20,7 @@
     <div>
         <a href="mailto:diegoferrari.dev@gmail.com">
           <img src="https://badgen.net/badge/e-mail/diegoferrari.dev@gmail.com/red?&border-radius=12" alt="Email" />
-        </a>
+        </a> 
     </div>
 </div>
 
