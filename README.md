@@ -36,9 +36,6 @@
     </div>
 </div>
 
-
----
-
 <!--<div align="center">
   <img src="https://img.shields.io/badge/First%20Pull%20Request-🥉-green?style=for-the-badge" alt="First PR"/>
   <img src="https://img.shields.io/badge/First%20Issue%20Closed-⭐-blue?style=for-the-badge" alt="First Issue"/>
