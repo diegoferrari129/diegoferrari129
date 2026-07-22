@@ -5,7 +5,7 @@
 --> 
 
 <!-- ABOUT ME -->
-<div> 
+<div>  
     <h2>Hi there! I'm Diego Ferrari, a passionate full-stack developer.</h2>    
     <ul>
       <li>🔭 I’m currently looking for my first opportunity in tech</li> 
