@@ -13,7 +13,7 @@
       <li>💼 I’m building personal projects to showcase my skills</li>
       <li>👯 I’m looking to collaborate on open source projects</li>
       <li>🙋‍♂️ I’m available to volunteer on small coding tasks or bug fixes</li> 
-    </ul>
+    </ul> 
     <h3>
       Let's connect and build the future together! 🌟
     </h3>
