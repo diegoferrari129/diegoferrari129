@@ -4,7 +4,7 @@
 </div> 
 --> 
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME --> 
 <div>     
     <h2>Hi there! I'm Diego Ferrari, a passionate full-stack developer.</h2>      
     <ul>   
