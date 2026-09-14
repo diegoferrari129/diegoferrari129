@@ -15,7 +15,7 @@
       <li>🙋‍♂️ I’m available to volunteer on small coding tasks or bug fixes</li> 
     </ul> 
     <h3>
-      Let's connect and build the future together! 🌟
+      Let's connect and build the future together! 🌟 
     </h3>
     <div>
         <a href="mailto:diegoferrari.dev@gmail.com"> 
