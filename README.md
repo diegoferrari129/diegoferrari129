@@ -8,7 +8,7 @@
 <div>     
     <h2>Hi there! I'm Diego Ferrari, a passionate full-stack developer.</h2>       
     <ul>   
-      <li>🔭 I’m currently looking for my first opportunity in tech</li>  
+      <li>🔭 I’m currently looking for my first opportunity in tech</li>   
       <li>🌱 I’m currently deepening my knowledge of .NET and Angular, and exploring Generative AI integration in .NET applications</li>
       <li>💼 I’m building personal projects to showcase my skills</li> 
       <li>👯 I’m looking to collaborate on open source projects</li>
@@ -19,7 +19,7 @@
     </h3>
     <div>
         <a href="mailto:diegoferrari.dev@gmail.com"> 
-          <img src="https://badgen.net/badge/e-mail/diegoferrari.dev@gmail.com/red?&border-radius=12" alt="Email" />
+          <img src="https://badgen.net/badge/e-mail/diegoferrari.dev@gmail.com/red?&border-radius=12" alt="Email" /> 
         </a> 
     </div>
 </div>
